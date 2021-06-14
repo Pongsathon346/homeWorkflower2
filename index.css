@@ -1,4 +1,7 @@
-h2{
-    font-family: 'Segoe UI';
-    color: snow;
+h1{
+    color: black;
+}
+.profile-img{
+    height: 5rem;
+    width: 5rem;
 }
