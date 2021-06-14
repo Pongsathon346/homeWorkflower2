@@ -61,9 +61,7 @@ function addText(){
     </header>
     <div >
     <h1>Not found data</h1>
-    </div>
-    `
-    
+    </div>`
     }
 }
 searhButton.addEventListener('click',addText)
